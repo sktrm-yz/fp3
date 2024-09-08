@@ -1,0 +1,12 @@
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Editor temporary files
+*.swp
+*.swo
+*~
+
+# Personal notes and confidential information
+personal_notes.md
+secret_info.txt
